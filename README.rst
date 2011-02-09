@@ -1,4 +1,6 @@
-NOTE: This project is no longer in active development. Please see for the actively developed version https://github.com/lann/Harvest
+===================
+NOTE: This project is no longer in active development. Please see https://github.com/lann/Harvest for the actively developed version.
+===================
 
 ===================
 Harvest API
